@@ -37,3 +37,7 @@ app.get('', (req, res) => {
 app.get('', (req, res) => {
     res.send('')
 })
+
+app.delete('/user', function (req, res) {
+    res.send('Got a DELETE request at /user')
+})
