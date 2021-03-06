@@ -59,8 +59,6 @@ const renderActiveNote = () => {
   hide(saveNoteBtn);
 
   if (activeNote.id) {
-    noteTitle.setAttribute('readonly', true);
-    noteText.setAttribute('readonly', true);
     noteTitle.value = activeNote.title;
     noteText.value = activeNote.text;
   } else {
@@ -139,19 +137,19 @@ const renderNoteList = async (notes) => {
 
     liEl.append(spanEl);
 
-    if (delBtn) {
-      const delBtnEl = document.createElement('i');
-      delBtnEl.classList.add(
-        'fas',
-        'fa-trash-alt',
-        'float-right',
-        'text-danger',
-        'delete-note'
-      );
-      delBtnEl.addEventListener('click', handleNoteDelete);
+    // if (delBtn) {
+    //   const delBtnEl = document.createElement('i');
+    //   delBtnEl.classList.add(
+    //     'fas',
+    //     'fa-trash-alt',
+    //     'float-right',
+    //     'text-danger',
+    //     'delete-note'
+    //   );
+    //   delBtnEl.addEventListener('click', handleNoteDelete);
 
-      liEl.append(delBtnEl);
-    }
+    //   liEl.append(delBtnEl);
+    // }
 
     return liEl;
   };
