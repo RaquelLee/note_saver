@@ -14,13 +14,13 @@
 [Take Notes on Heroku](https://still-cove-75725.herokuapp.com/)
 
 ## :busts_in_silhouette:  Credits 
-Raquel Scofield
+Raquel Scofield ![followme](https://img.shields.io/github/followers/raquellee?label=Follow&style=social)
 
 [:eyes: Raquel's Portfolio](https://raquellee.github.io/)
 
 [Raquel's Github](http://github.com/raquellee)
 
-![followme](https://img.shields.io/github/followers/raquellee?label=Follow&style=social)
+
 
 <a href="mailto:raquel@icloud.com">:email: rleesc94@gmail.com</a>
 
