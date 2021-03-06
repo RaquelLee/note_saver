@@ -5,16 +5,16 @@
 * Express
 * Heroku
 
-## Usage :cinema:
+## :cinema: Usage 
 
 ![demogif](https://github.com/RaquelLee/take_notes/blob/main/public/assets/images/demo.gif)
 
-## Deployed to Heroku :link:
+## :link: Deployed to Heroku 
 
 [Take Notes on Heroku](https://still-cove-75725.herokuapp.com/)
 
-## Credits :busts_in_silhouette:
-Raquel Scofield
+## :busts_in_silhouette: Credits 
+Raquel Scofield <br>
 [:eyes: Raquel's Portfolio](https://raquellee.github.io/) <br>
 [Raquel's Github](http://github.com/raquellee) <br>
 ![followme](https://img.shields.io/github/followers/raquellee?label=Follow&style=social) <br>
